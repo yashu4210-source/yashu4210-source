@@ -64,3 +64,17 @@ To build useful, reliable AI and automation solutions that save time, improve pr
 ---
 
 **Learning every day. Building real projects. Creating useful solutions.**
+
+## 📚 Development Learning Journey
+
+I am learning practical software development with GitHub, Git, n8n and AI technologies.
+
+### Current Learning
+- GitHub repositories and commits
+- Version control fundamentals
+- n8n workflow automation
+- APIs and webhooks
+- Hospitality AI development
+
+### Current Goal
+Build a practical Hospitality AI Receptionist through small, tested development steps.
